@@ -61,9 +61,5 @@ const val GEMINI_API_KEY = "Enter your GEMINI_API_KEY"
 | <img src="screenshots/home-desktop.png"> </img> |<img src="screenshots/detail-desktop.png" > </img> |
 
 
-### Detail screen videos - Android / iOS
-<video width="630" height="300" src="https://github.com/iamsuatzengin/news-app-compose-multiplatform/assets/67907559/8c824496-f316-4ca0-bc31-f6caed41a6df">video</video>
-
-<video width="630" height="300" src="https://github.com/iamsuatzengin/news-app-compose-multiplatform/assets/67907559/38f0f8be-c87d-48de-8c02-470704899a96">video</video>
-
-
+### Detail screen video
+<video width="630" height="300" src="https://github.com/iamsuatzengin/news-app-compose-multiplatform/assets/67907559/1f32ed23-b6fe-443d-8c8f-e0f282fec54c">video</video>
